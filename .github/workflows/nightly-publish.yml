@@ -4,7 +4,7 @@ on:
   # push:
   #   branches: [main]
   workflow_run:
-    workflows: ["Code QA Roo Code"]
+    workflows: ["Code QA ProGenTeam"]
     types:
       - completed
     branches: [main]

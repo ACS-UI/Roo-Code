@@ -1,5 +1,5 @@
 {
-	"greeting": "Welcome to Roo Code",
+	"greeting": "Welcome to ProGenTeam",
 	"task": {
 		"title": "Task",
 		"seeMore": "See more",
@@ -198,11 +198,11 @@
 	"autoApprove": {
 		"title": "Auto-approve:",
 		"none": "None",
-		"description": "Auto-approve allows Roo Code to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>."
+		"description": "Auto-approve allows ProGenTeam to perform actions without asking for permission. Only enable for actions you fully trust. More detailed configuration available in <settingsLink>Settings</settingsLink>."
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} Released",
-		"description": "Roo Code {{version}} brings powerful new features and improvements based on your feedback.",
+		"title": "🎉 ProGenTeam {{version}} Released",
+		"description": "ProGenTeam {{version}} brings powerful new features and improvements based on your feedback.",
 		"whatsNew": "What's New",
 		"feature1": "<bold>Gemini 2.5 Flash Preview Models</bold>: Access the latest Gemini Flash models for faster and more efficient responses",
 		"feature2": "<bold>Intelligent Context Condensing</bold>: New button in task header lets you intelligently condense content with visual feedback",
@@ -251,7 +251,7 @@
 	"systemPromptWarning": "WARNING: Custom system prompt override active. This can severely break functionality and cause unpredictable behavior.",
 	"shellIntegration": {
 		"title": "Command Execution Warning",
-		"description": "Your command is being executed without VSCode terminal shell integration. To suppress this warning you can disable shell integration in the <strong>Terminal</strong> section of the <settingsLink>Roo Code settings</settingsLink> or troubleshoot VSCode terminal integration using the link below.",
+		"description": "Your command is being executed without VSCode terminal shell integration. To suppress this warning you can disable shell integration in the <strong>Terminal</strong> section of the <settingsLink>ProGenTeam settings</settingsLink> or troubleshoot VSCode terminal integration using the link below.",
 		"troubleshooting": "Click here for shell integration documentation."
 	},
 	"ask": {

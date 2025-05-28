@@ -4,7 +4,7 @@ import type { RooCodeAPI, ClineMessage } from "@roo-code/types"
 
 import { waitUntilCompleted } from "./utils"
 
-suite("Roo Code Modes", () => {
+suite("ProGenTeam Modes", () => {
 	test("Should handle switching modes correctly", async () => {
 		// @ts-expect-error - Expose the API to the tests.
 		const api = globalThis.api as RooCodeAPI

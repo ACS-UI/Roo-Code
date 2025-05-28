@@ -2,9 +2,9 @@
 
 [日本語](../ja/CONTRIBUTING.md) • [한국어](../ko/CONTRIBUTING.md) • [Polski](../pl/CONTRIBUTING.md) • [Português (BR)](../pt-BR/CONTRIBUTING.md) • [Türkçe](../tr/CONTRIBUTING.md) • [Tiếng Việt](../vi/CONTRIBUTING.md) • [简体中文](../zh-CN/CONTRIBUTING.md) • [繁體中文](../zh-TW/CONTRIBUTING.md)
 
-# Contribuir a Roo Code
+# Contribuir a ProGenTeam
 
-Roo Code es un proyecto impulsado por la comunidad, y valoramos profundamente cada contribución. Para agilizar la colaboración, operamos con un enfoque [Issue-First](#enfoque-issue-first), lo que significa que todos los [Pull Requests (PRs)](#enviar-un-pull-request) deben estar vinculados primero a un Issue de GitHub. Por favor, revisa esta guía cuidadosamente.
+ProGenTeam es un proyecto impulsado por la comunidad, y valoramos profundamente cada contribución. Para agilizar la colaboración, operamos con un enfoque [Issue-First](#enfoque-issue-first), lo que significa que todos los [Pull Requests (PRs)](#enviar-un-pull-request) deben estar vinculados primero a un Issue de GitHub. Por favor, revisa esta guía cuidadosamente.
 
 ## Tabla de Contenidos
 
@@ -43,7 +43,7 @@ Nuestra hoja de ruta guía la dirección del proyecto. Alinea tus contribuciones
 
 Menciona la alineación con estas áreas en tus PRs.
 
-### 3. Únete a la Comunidad Roo Code
+### 3. Únete a la Comunidad ProGenTeam
 
 - **Principal:** Únete a nuestro [Discord](https://discord.gg/roocode) y envía un DM a **Hannes Rudolph (`hrudolph`)**.
 - **Alternativa:** Los colaboradores experimentados pueden participar directamente a través de [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1).
@@ -60,7 +60,7 @@ Menciona la alineación con estas áreas en tus PRs.
 
 Todas las contribuciones deben comenzar con un Issue de GitHub.
 
-- **Revisar issues existentes**: Busca en [GitHub Issues](https://github.com/RooCodeInc/Roo-Code/issues).
+- **Revisar issues existentes**: Busca en [GitHub Issues](https://github.com/ACS-UI/Roo-Code/issues).
 - **Crear un issue**: Usa las plantillas apropiadas:
     - **Errores:** Plantilla "Bug Report".
     - **Funciones:** Plantilla "Detailed Feature Proposal". Se requiere aprobación antes de comenzar.
@@ -71,13 +71,13 @@ Todas las contribuciones deben comenzar con un Issue de GitHub.
 ### Decidir en Qué Trabajar
 
 - Revisa el [Proyecto GitHub](https://github.com/orgs/RooCodeInc/projects/1) para "Good First Issues" no asignados.
-- Para documentación, visita [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- Para documentación, visita [ProGenTeam Docs](https://github.com/ACS-UI/Roo-Code-Docs).
 
 ### Reportar Errores
 
 - Primero verifica si ya existen reportes.
-- Crea nuevos reportes de errores usando la [plantilla "Bug Report"](https://github.com/RooCodeInc/Roo-Code/issues/new/choose).
-- **Problemas de seguridad**: Reporta de forma privada a través de [security advisories](https://github.com/RooCodeInc/Roo-Code/security/advisories/new).
+- Crea nuevos reportes de errores usando la [plantilla "Bug Report"](https://github.com/ACS-UI/Roo-Code/issues/new/choose).
+- **Problemas de seguridad**: Reporta de forma privada a través de [security advisories](https://github.com/ACS-UI/Roo-Code/security/advisories/new).
 
 ## Proceso de Desarrollo y Envío
 
@@ -126,4 +126,4 @@ npm run install:all
 
 ## Legal
 
-Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la Licencia Apache 2.0, consistente con la licencia de Roo Code.
+Al contribuir, aceptas que tus contribuciones serán licenciadas bajo la Licencia Apache 2.0, consistente con la licencia de ProGenTeam.

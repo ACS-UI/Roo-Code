@@ -1,5 +1,5 @@
 {
-	"greeting": "Willkommen bei Roo Code",
+	"greeting": "Willkommen bei ProGenTeam",
 	"task": {
 		"title": "Aufgabe",
 		"seeMore": "Mehr anzeigen",
@@ -193,7 +193,7 @@
 	"autoApprove": {
 		"title": "Automatische Genehmigung:",
 		"none": "Keine",
-		"description": "Automatische Genehmigung erlaubt Roo Code, Aktionen ohne Nachfrage auszuführen. Aktiviere dies nur für Aktionen, denen du vollständig vertraust. Detailliertere Konfiguration verfügbar in den <settingsLink>Einstellungen</settingsLink>."
+		"description": "Automatische Genehmigung erlaubt ProGenTeam, Aktionen ohne Nachfrage auszuführen. Aktiviere dies nur für Aktionen, denen du vollständig vertraust. Detailliertere Konfiguration verfügbar in den <settingsLink>Einstellungen</settingsLink>."
 	},
 	"reasoning": {
 		"thinking": "Denke nach",
@@ -208,8 +208,8 @@
 		"copyToInput": "In Eingabefeld kopieren (oder Shift + Klick)"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} veröffentlicht",
-		"description": "Roo Code {{version}} bringt leistungsstarke neue Funktionen und Verbesserungen basierend auf deinem Feedback.",
+		"title": "🎉 ProGenTeam {{version}} veröffentlicht",
+		"description": "ProGenTeam {{version}} bringt leistungsstarke neue Funktionen und Verbesserungen basierend auf deinem Feedback.",
 		"whatsNew": "Was ist neu",
 		"feature1": "<bold>Gemini 2.5 Flash Vorschaumodelle</bold>: Zugriff auf die neuesten Gemini Flash-Modelle für schnellere und effizientere Antworten",
 		"feature2": "<bold>Intelligente Kontextverdichtung</bold>: Neuer Button in der Aufgabenleiste ermöglicht dir die intelligente Verdichtung von Inhalten mit visueller Rückmeldung",
@@ -251,7 +251,7 @@
 	"systemPromptWarning": "WARNUNG: Benutzerdefinierte Systemaufforderung aktiv. Dies kann die Funktionalität erheblich beeinträchtigen und zu unvorhersehbarem Verhalten führen.",
 	"shellIntegration": {
 		"title": "Befehlsausführungswarnung",
-		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>Roo Code Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
+		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>ProGenTeam Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
 		"troubleshooting": "Klicke hier für die Shell-Integrationsdokumentation."
 	},
 	"ask": {

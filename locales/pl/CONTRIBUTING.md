@@ -2,9 +2,9 @@
 
 [日本語](../ja/CONTRIBUTING.md) • [한국어](../ko/CONTRIBUTING.md) • <b>Polski</b> • [Português (BR)](../pt-BR/CONTRIBUTING.md) • [Türkçe](../tr/CONTRIBUTING.md) • [Tiếng Việt](../vi/CONTRIBUTING.md) • [简体中文](../zh-CN/CONTRIBUTING.md) • [繁體中文](../zh-TW/CONTRIBUTING.md)
 
-# Współtworzenie Roo Code
+# Współtworzenie ProGenTeam
 
-Roo Code to projekt napędzany przez społeczność i bardzo cenimy każdy wkład. Aby usprawnić współpracę, działamy według zasady [Issue-First](#podejście-issue-first), co oznacza, że wszystkie [Pull Requesty (PR)](#zgłaszanie-pull-requesta) muszą najpierw być powiązane z GitHub Issue. Prosimy o uważne zapoznanie się z tym przewodnikiem.
+ProGenTeam to projekt napędzany przez społeczność i bardzo cenimy każdy wkład. Aby usprawnić współpracę, działamy według zasady [Issue-First](#podejście-issue-first), co oznacza, że wszystkie [Pull Requesty (PR)](#zgłaszanie-pull-requesta) muszą najpierw być powiązane z GitHub Issue. Prosimy o uważne zapoznanie się z tym przewodnikiem.
 
 ## Spis treści
 
@@ -43,7 +43,7 @@ Nasza roadmapa wyznacza kierunek projektu. Dostosuj swój wkład do tych kluczow
 
 Wspomnij o powiązaniu z tymi obszarami w swoich PR.
 
-### 3. Dołącz do społeczności Roo Code
+### 3. Dołącz do społeczności ProGenTeam
 
 - **Główna metoda:** Dołącz do naszego [Discorda](https://discord.gg/roocode) i wyślij wiadomość prywatną do **Hannes Rudolph (`hrudolph`)**.
 - **Alternatywa:** Doświadczeni współtwórcy mogą angażować się bezpośrednio przez [GitHub Projects](https://github.com/orgs/RooCodeInc/projects/1).
@@ -60,7 +60,7 @@ Wspomnij o powiązaniu z tymi obszarami w swoich PR.
 
 Każdy wkład musi zaczynać się od GitHub Issue.
 
-- **Sprawdź istniejące issues:** Przeszukaj [GitHub Issues](https://github.com/RooCodeInc/Roo-Code/issues).
+- **Sprawdź istniejące issues:** Przeszukaj [GitHub Issues](https://github.com/ACS-UI/Roo-Code/issues).
 - **Utwórz issue:** Używaj odpowiednich szablonów:
     - **Błędy:** Szablon "Bug Report".
     - **Funkcje:** Szablon "Detailed Feature Proposal". Wymagane zatwierdzenie przed rozpoczęciem.
@@ -71,13 +71,13 @@ Każdy wkład musi zaczynać się od GitHub Issue.
 ### Decydowanie, nad czym pracować
 
 - Sprawdź [Projekt GitHub](https://github.com/orgs/RooCodeInc/projects/1) w poszukiwaniu nieprzypisanych "Good First Issues".
-- W kwestii dokumentacji odwiedź [Roo Code Docs](https://github.com/RooCodeInc/Roo-Code-Docs).
+- W kwestii dokumentacji odwiedź [ProGenTeam Docs](https://github.com/ACS-UI/Roo-Code-Docs).
 
 ### Zgłaszanie błędów
 
 - Najpierw sprawdź istniejące zgłoszenia.
-- Twórz nowe zgłoszenia błędów używając [szablonu "Bug Report"](https://github.com/RooCodeInc/Roo-Code/issues/new/choose).
-- **Luki bezpieczeństwa:** Zgłaszaj prywatnie przez [security advisories](https://github.com/RooCodeInc/Roo-Code/security/advisories/new).
+- Twórz nowe zgłoszenia błędów używając [szablonu "Bug Report"](https://github.com/ACS-UI/Roo-Code/issues/new/choose).
+- **Luki bezpieczeństwa:** Zgłaszaj prywatnie przez [security advisories](https://github.com/ACS-UI/Roo-Code/security/advisories/new).
 
 ## Proces rozwoju i zgłaszania
 
@@ -126,4 +126,4 @@ npm run install:all
 
 ## Prawne
 
-Zgłaszając pull request, zgadzasz się, że twój wkład będzie licencjonowany na licencji Apache 2.0, zgodnie z licencją Roo Code.
+Zgłaszając pull request, zgadzasz się, że twój wkład będzie licencjonowany na licencji Apache 2.0, zgodnie z licencją ProGenTeam.

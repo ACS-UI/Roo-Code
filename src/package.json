@@ -1,8 +1,8 @@
 {
-	"name": "roo-cline",
+	"name": "progenteam",
 	"displayName": "%extension.displayName%",
 	"description": "%extension.description%",
-	"publisher": "RooVeterinaryInc",
+	"publisher": "ProGenTeam",
 	"version": "3.18.2",
 	"icon": "assets/icons/icon.png",
 	"galleryBanner": {
@@ -14,13 +14,13 @@
 		"node": "20.18.1"
 	},
 	"author": {
-		"name": "Roo Code"
+		"name": "ProGenTeam"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/RooCodeInc/Roo-Code"
+		"url": "https://github.com/ACS-UI/Roo-Code"
 	},
-	"homepage": "https://github.com/RooCodeInc/Roo-Code",
+	"homepage": "https://github.com/ACS-UI/Roo-Code",
 	"categories": [
 		"AI",
 		"Chat",
@@ -42,8 +42,8 @@
 		"sonnet",
 		"ai",
 		"llama",
-		"roo code",
-		"roocode"
+		"ProGenTeam",
+		"progenteam"
 	],
 	"activationEvents": [
 		"onLanguage",
@@ -54,109 +54,109 @@
 		"viewsContainers": {
 			"activitybar": [
 				{
-					"id": "roo-cline-ActivityBar",
+					"id": "progenteam-ActivityBar",
 					"title": "%views.activitybar.title%",
 					"icon": "assets/icons/icon.svg"
 				}
 			]
 		},
 		"views": {
-			"roo-cline-ActivityBar": [
+			"progenteam-ActivityBar": [
 				{
 					"type": "webview",
-					"id": "roo-cline.SidebarProvider",
+					"id": "progenteam.SidebarProvider",
 					"name": ""
 				}
 			]
 		},
 		"commands": [
 			{
-				"command": "roo-cline.plusButtonClicked",
+				"command": "progenteam.plusButtonClicked",
 				"title": "%command.newTask.title%",
 				"icon": "$(add)"
 			},
 			{
-				"command": "roo-cline.mcpButtonClicked",
+				"command": "progenteam.mcpButtonClicked",
 				"title": "%command.mcpServers.title%",
 				"icon": "$(server)"
 			},
 			{
-				"command": "roo-cline.promptsButtonClicked",
+				"command": "progenteam.promptsButtonClicked",
 				"title": "%command.prompts.title%",
 				"icon": "$(notebook)"
 			},
 			{
-				"command": "roo-cline.historyButtonClicked",
+				"command": "progenteam.historyButtonClicked",
 				"title": "%command.history.title%",
 				"icon": "$(history)"
 			},
 			{
-				"command": "roo-cline.popoutButtonClicked",
+				"command": "progenteam.popoutButtonClicked",
 				"title": "%command.openInEditor.title%",
 				"icon": "$(link-external)"
 			},
 			{
-				"command": "roo-cline.settingsButtonClicked",
+				"command": "progenteam.settingsButtonClicked",
 				"title": "%command.settings.title%",
 				"icon": "$(settings-gear)"
 			},
 			{
-				"command": "roo-cline.openInNewTab",
+				"command": "progenteam.openInNewTab",
 				"title": "%command.openInNewTab.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.explainCode",
+				"command": "progenteam.explainCode",
 				"title": "%command.explainCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.fixCode",
+				"command": "progenteam.fixCode",
 				"title": "%command.fixCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.improveCode",
+				"command": "progenteam.improveCode",
 				"title": "%command.improveCode.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.addToContext",
+				"command": "progenteam.addToContext",
 				"title": "%command.addToContext.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.newTask",
+				"command": "progenteam.newTask",
 				"title": "%command.newTask.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.terminalAddToContext",
+				"command": "progenteam.terminalAddToContext",
 				"title": "%command.terminal.addToContext.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.terminalFixCommand",
+				"command": "progenteam.terminalFixCommand",
 				"title": "%command.terminal.fixCommand.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.terminalExplainCommand",
+				"command": "progenteam.terminalExplainCommand",
 				"title": "%command.terminal.explainCommand.title%",
 				"category": "Terminal"
 			},
 			{
-				"command": "roo-cline.setCustomStoragePath",
+				"command": "progenteam.setCustomStoragePath",
 				"title": "%command.setCustomStoragePath.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.focusInput",
+				"command": "progenteam.focusInput",
 				"title": "%command.focusInput.title%",
 				"category": "%configuration.title%"
 			},
 			{
-				"command": "roo-cline.acceptInput",
+				"command": "progenteam.acceptInput",
 				"title": "%command.acceptInput.title%",
 				"category": "%configuration.title%"
 			}
@@ -164,123 +164,123 @@
 		"menus": {
 			"editor/context": [
 				{
-					"submenu": "roo-cline.contextMenu",
+					"submenu": "progenteam.contextMenu",
 					"group": "navigation"
 				}
 			],
-			"roo-cline.contextMenu": [
+			"progenteam.contextMenu": [
 				{
-					"command": "roo-cline.addToContext",
+					"command": "progenteam.addToContext",
 					"group": "1_actions@1"
 				},
 				{
-					"command": "roo-cline.explainCode",
+					"command": "progenteam.explainCode",
 					"group": "1_actions@2"
 				},
 				{
-					"command": "roo-cline.improveCode",
+					"command": "progenteam.improveCode",
 					"group": "1_actions@3"
 				}
 			],
 			"terminal/context": [
 				{
-					"submenu": "roo-cline.terminalMenu",
+					"submenu": "progenteam.terminalMenu",
 					"group": "navigation"
 				}
 			],
-			"roo-cline.terminalMenu": [
+			"progenteam.terminalMenu": [
 				{
-					"command": "roo-cline.terminalAddToContext",
+					"command": "progenteam.terminalAddToContext",
 					"group": "1_actions@1"
 				},
 				{
-					"command": "roo-cline.terminalFixCommand",
+					"command": "progenteam.terminalFixCommand",
 					"group": "1_actions@2"
 				},
 				{
-					"command": "roo-cline.terminalExplainCommand",
+					"command": "progenteam.terminalExplainCommand",
 					"group": "1_actions@3"
 				}
 			],
 			"view/title": [
 				{
-					"command": "roo-cline.plusButtonClicked",
+					"command": "progenteam.plusButtonClicked",
 					"group": "navigation@1",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.promptsButtonClicked",
+					"command": "progenteam.promptsButtonClicked",
 					"group": "navigation@2",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.mcpButtonClicked",
+					"command": "progenteam.mcpButtonClicked",
 					"group": "navigation@3",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.historyButtonClicked",
+					"command": "progenteam.historyButtonClicked",
 					"group": "navigation@4",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.popoutButtonClicked",
+					"command": "progenteam.popoutButtonClicked",
 					"group": "navigation@5",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				},
 				{
-					"command": "roo-cline.settingsButtonClicked",
+					"command": "progenteam.settingsButtonClicked",
 					"group": "navigation@6",
-					"when": "view == roo-cline.SidebarProvider"
+					"when": "view == progenteam.SidebarProvider"
 				}
 			],
 			"editor/title": [
 				{
-					"command": "roo-cline.plusButtonClicked",
+					"command": "progenteam.plusButtonClicked",
 					"group": "navigation@1",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.promptsButtonClicked",
+					"command": "progenteam.promptsButtonClicked",
 					"group": "navigation@2",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.mcpButtonClicked",
+					"command": "progenteam.mcpButtonClicked",
 					"group": "navigation@3",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.historyButtonClicked",
+					"command": "progenteam.historyButtonClicked",
 					"group": "navigation@4",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.popoutButtonClicked",
+					"command": "progenteam.popoutButtonClicked",
 					"group": "navigation@5",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				},
 				{
-					"command": "roo-cline.settingsButtonClicked",
+					"command": "progenteam.settingsButtonClicked",
 					"group": "navigation@6",
-					"when": "activeWebviewPanelId == roo-cline.TabPanelProvider"
+					"when": "activeWebviewPanelId == progenteam.TabPanelProvider"
 				}
 			]
 		},
 		"submenus": [
 			{
-				"id": "roo-cline.contextMenu",
+				"id": "progenteam.contextMenu",
 				"label": "%views.contextMenu.label%"
 			},
 			{
-				"id": "roo-cline.terminalMenu",
+				"id": "progenteam.terminalMenu",
 				"label": "%views.terminalMenu.label%"
 			}
 		],
 		"configuration": {
 			"title": "%configuration.title%",
 			"properties": {
-				"roo-cline.allowedCommands": {
+				"progenteam.allowedCommands": {
 					"type": "array",
 					"items": {
 						"type": "string"
@@ -295,7 +295,7 @@
 					],
 					"description": "%commands.allowedCommands.description%"
 				},
-				"roo-cline.vsCodeLmModelSelector": {
+				"progenteam.vsCodeLmModelSelector": {
 					"type": "object",
 					"properties": {
 						"vendor": {
@@ -309,7 +309,7 @@
 					},
 					"description": "%settings.vsCodeLmModelSelector.description%"
 				},
-				"roo-cline.customStoragePath": {
+				"progenteam.customStoragePath": {
 					"type": "string",
 					"default": "",
 					"description": "%settings.customStoragePath.description%"

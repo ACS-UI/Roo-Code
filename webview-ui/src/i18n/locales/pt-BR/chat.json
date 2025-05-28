@@ -1,5 +1,5 @@
 {
-	"greeting": "Bem-vindo ao Roo Code",
+	"greeting": "Bem-vindo ao ProGenTeam",
 	"task": {
 		"title": "Tarefa",
 		"seeMore": "Ver mais",
@@ -193,7 +193,7 @@
 	"autoApprove": {
 		"title": "Aprovação automática:",
 		"none": "Nenhuma",
-		"description": "A aprovação automática permite que o Roo Code execute ações sem pedir permissão. Ative apenas para ações nas quais você confia totalmente. Configuração mais detalhada disponível nas <settingsLink>Configurações</settingsLink>."
+		"description": "A aprovação automática permite que o ProGenTeam execute ações sem pedir permissão. Ative apenas para ações nas quais você confia totalmente. Configuração mais detalhada disponível nas <settingsLink>Configurações</settingsLink>."
 	},
 	"reasoning": {
 		"thinking": "Pensando",
@@ -208,8 +208,8 @@
 		"copyToInput": "Copiar para entrada (ou Shift + clique)"
 	},
 	"announcement": {
-		"title": "🎉 Roo Code {{version}} Lançado",
-		"description": "Roo Code {{version}} traz poderosos novos recursos e melhorias baseados no seu feedback.",
+		"title": "🎉 ProGenTeam {{version}} Lançado",
+		"description": "ProGenTeam {{version}} traz poderosos novos recursos e melhorias baseados no seu feedback.",
 		"whatsNew": "O que há de novo",
 		"feature1": "<bold>Modelos de Pré-visualização Gemini 2.5 Flash</bold>: Acesse os mais recentes modelos Gemini Flash para respostas mais rápidas e eficientes",
 		"feature2": "<bold>Condensação Inteligente de Contexto</bold>: Novo botão no cabeçalho da tarefa permite condensar conteúdo de forma inteligente com feedback visual",
@@ -251,7 +251,7 @@
 	"systemPromptWarning": "AVISO: Substituição personalizada de instrução do sistema ativa. Isso pode comprometer gravemente a funcionalidade e causar comportamento imprevisível.",
 	"shellIntegration": {
 		"title": "Aviso de execução de comando",
-		"description": "Seu comando está sendo executado sem a integração de shell do terminal VSCode. Para suprimir este aviso, você pode desativar a integração de shell na seção <strong>Terminal</strong> das <settingsLink>configurações do Roo Code</settingsLink> ou solucionar problemas de integração do terminal VSCode usando o link abaixo.",
+		"description": "Seu comando está sendo executado sem a integração de shell do terminal VSCode. Para suprimir este aviso, você pode desativar a integração de shell na seção <strong>Terminal</strong> das <settingsLink>configurações do ProGenTeam</settingsLink> ou solucionar problemas de integração do terminal VSCode usando o link abaixo.",
 		"troubleshooting": "Clique aqui para a documentação de integração de shell."
 	},
 	"ask": {

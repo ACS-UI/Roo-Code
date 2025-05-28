@@ -4,7 +4,7 @@ import type { RooCodeAPI, ClineMessage } from "@roo-code/types"
 
 import { sleep, waitFor, waitUntilCompleted } from "./utils"
 
-suite.skip("Roo Code Subtasks", () => {
+suite.skip("ProGenTeam Subtasks", () => {
 	test("Should handle subtask cancellation and resumption correctly", async () => {
 		// @ts-expect-error - Expose the API to the tests.
 		const api = globalThis.api as RooCodeAPI
